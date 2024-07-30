@@ -1,3 +1,7 @@
+# Physics Simulations
+*A collection of physcis simulations built using Panda3D*
+
+## Overview of files
 Initial Setup:
 Windows Instructions:
 	Step by step guide for setting up Panda3D in VS Code on Windows
