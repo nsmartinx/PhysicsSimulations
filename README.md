@@ -1,5 +1,5 @@
 # Physics Simulations
-*A collection of physcis simulations built using Panda3D*
+*A collection of physics simulations built using Panda3D*
 
 ## Overview of files
 Initial Setup:
